@@ -87,3 +87,10 @@ Columns takes priority if both are set.
 If you enjoyed using Gallery, I'd love to see what you created with Gallery 🙌
 
 Share your gallery with me on this [thread](https://github.com/andyzg/gallery/issues/1)❤️!
+
+## Notes
+Had to run:
+
+```
+alias python='python3'
+```
