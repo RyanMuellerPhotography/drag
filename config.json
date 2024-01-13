@@ -2,51 +2,11 @@
   "Instagram": [
     {
       "width": 1080,
-      "height": 1080,
-      "path": "./photos/Instagram/20231228_0341_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0341_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0341_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
       "height": 721,
       "path": "./photos/Instagram/20231228_0141_02.jpg",
       "compressed_path": "./photos/Instagram/20231228_0141_02.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20231228_0141_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0177_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0177_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0177_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 721,
-      "path": "./photos/Instagram/20231228_0141_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0141_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0141_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0337_03.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0337_03.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0337_03.placeholder.jpg"
-    },
-    {
-      "width": 863,
-      "height": 1080,
-      "path": "./photos/Instagram/20231003_0214_02.jpg",
-      "compressed_path": "./photos/Instagram/20231003_0214_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231003_0214_02.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -71,14 +31,6 @@
       "compressed_path": "./photos/Instagram/20231228_0176_09.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20231228_0176_09.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1373,
-      "path": "./photos/Instagram/20231228_0298.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0298.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0298.placeholder.jpg"
     },
     {
       "width": 866,
@@ -106,59 +58,11 @@
     },
     {
       "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0337_02.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0337_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0337_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 863,
-      "path": "./photos/Instagram/bold and vibrant.jpg",
-      "compressed_path": "./photos/Instagram/bold and vibrant.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/bold and vibrant.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0337.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0337.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0337.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1618,
-      "path": "./photos/Instagram/20231228_0071_02.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/sigmoid cool and bold low sat.jpg",
-      "compressed_path": "./photos/Instagram/sigmoid cool and bold low sat.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/sigmoid cool and bold low sat.placeholder.jpg"
-    },
-    {
-      "width": 1080,
       "height": 1080,
       "path": "./photos/Instagram/20240111_0346_01.jpg",
       "compressed_path": "./photos/Instagram/20240111_0346_01.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20240111_0346_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1345,
-      "path": "./photos/Instagram/20230728_1778.jpg",
-      "compressed_path": "./photos/Instagram/20230728_1778.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20230728_1778.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -170,75 +74,11 @@
     },
     {
       "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/cool_and_simple.jpg",
-      "compressed_path": "./photos/Instagram/cool_and_simple.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/cool_and_simple.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1373,
-      "path": "./photos/Instagram/20231228_0298_02.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0298_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0298_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_08.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_08.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_08.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1350,
-      "path": "./photos/Instagram/20231228_0071_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
       "height": 565,
       "path": "./photos/Instagram/20231020_0112_01.jpg",
       "compressed_path": "./photos/Instagram/20231020_0112_01.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20231020_0112_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/warm.jpg",
-      "compressed_path": "./photos/Instagram/warm.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/warm.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 863,
-      "path": "./photos/Instagram/cool and simple.jpg",
-      "compressed_path": "./photos/Instagram/cool and simple.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/cool and simple.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_07.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_07.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_07.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_06.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_06.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_06.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -250,99 +90,11 @@
     },
     {
       "width": 1080,
-      "height": 721,
-      "path": "./photos/Instagram/20231020_0229.jpg",
-      "compressed_path": "./photos/Instagram/20231020_0229.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231020_0229.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0331.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0331.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0331.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1636,
-      "path": "./photos/Instagram/20231228_0369_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0369_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0369_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0298_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0298_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0298_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1373,
-      "path": "./photos/Instagram/20231228_0298_03.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0298_03.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0298_03.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/sigmoid_warmer_red.jpg",
-      "compressed_path": "./photos/Instagram/sigmoid_warmer_red.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/sigmoid_warmer_red.placeholder.jpg"
-    },
-    {
-      "width": 1080,
       "height": 1350,
       "path": "./photos/Instagram/20230728_1681.jpg",
       "compressed_path": "./photos/Instagram/20230728_1681.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20230728_1681.placeholder.jpg"
-    },
-    {
-      "width": 2198,
-      "height": 3293,
-      "path": "./photos/Instagram/20231228_0176_03.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_03.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_03.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1332,
-      "path": "./photos/Instagram/20231228_0369_04.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0369_04.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0369_04.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 863,
-      "path": "./photos/Instagram/light and airy.jpg",
-      "compressed_path": "./photos/Instagram/light and airy.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/light and airy.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0337_04.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0337_04.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0337_04.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 565,
-      "path": "./photos/Instagram/20231020_0112.jpg",
-      "compressed_path": "./photos/Instagram/20231020_0112.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231020_0112.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -351,30 +103,6 @@
       "compressed_path": "./photos/Instagram/20230728_1776.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20230728_1776.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/sigmoid_warm_red_v2.jpg",
-      "compressed_path": "./photos/Instagram/sigmoid_warm_red_v2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/sigmoid_warm_red_v2.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0337_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0337_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0337_01.placeholder.jpg"
-    },
-    {
-      "width": 3368,
-      "height": 4210,
-      "path": "./photos/Instagram/20231228_0071.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -395,66 +123,10 @@
     {
       "width": 1080,
       "height": 863,
-      "path": "./photos/Instagram/bold and vibrant cool.jpg",
-      "compressed_path": "./photos/Instagram/bold and vibrant cool.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/bold and vibrant cool.placeholder.jpg"
-    },
-    {
-      "width": 1099,
-      "height": 1646,
-      "path": "./photos/Instagram/20231228_0176_02.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_04.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_04.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_04.placeholder.jpg"
-    },
-    {
-      "width": 864,
-      "height": 1080,
-      "path": "./photos/Instagram/20231003_0214_01.jpg",
-      "compressed_path": "./photos/Instagram/20231003_0214_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231003_0214_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1349,
-      "path": "./photos/Instagram/20231228_0071_04.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071_04.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071_04.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Instagram/20240111_0346.jpg",
-      "compressed_path": "./photos/Instagram/20240111_0346.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20240111_0346.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 863,
       "path": "./photos/Instagram/20231020_0436_01.jpg",
       "compressed_path": "./photos/Instagram/20231020_0436_01.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20231020_0436_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_05.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_05.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_05.placeholder.jpg"
     },
     {
       "width": 864,
@@ -465,28 +137,12 @@
       "placeholder_path": "./photos/Instagram/20240111_0573.placeholder.jpg"
     },
     {
-      "width": 864,
-      "height": 1080,
-      "path": "./photos/Instagram/20231003_0214.jpg",
-      "compressed_path": "./photos/Instagram/20231003_0214.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231003_0214.placeholder.jpg"
-    },
-    {
       "width": 1080,
       "height": 1349,
       "path": "./photos/Instagram/20230728_1888.jpg",
       "compressed_path": "./photos/Instagram/20230728_1888.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20230728_1888.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1349,
-      "path": "./photos/Instagram/20231228_0071_05.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071_05.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071_05.placeholder.jpg"
     },
     {
       "width": 1080,
@@ -503,102 +159,6 @@
       "compressed_path": "./photos/Instagram/20231228_0052.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Instagram/20231228_0052.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0331_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0331_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0331_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 721,
-      "path": "./photos/Instagram/20231228_0141.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0141.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0141.placeholder.jpg"
-    },
-    {
-      "width": 866,
-      "height": 1080,
-      "path": "./photos/Instagram/20231228_0318.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0318.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0318.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Instagram/20231228_0341.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0341.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0341.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0176.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0176.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0176.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1618,
-      "path": "./photos/Instagram/20231228_0071_03.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0071_03.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0071_03.placeholder.jpg"
-    },
-    {
-      "width": 866,
-      "height": 1080,
-      "path": "./photos/Instagram/20231228_0318_01.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0318_01.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0318_01.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1350,
-      "path": "./photos/Instagram/20231228_0369_02.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0369_02.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0369_02.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 863,
-      "path": "./photos/Instagram/20231020_0436.jpg",
-      "compressed_path": "./photos/Instagram/20231020_0436.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231020_0436.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1617,
-      "path": "./photos/Instagram/20231228_0369_03.jpg",
-      "compressed_path": "./photos/Instagram/20231228_0369_03.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/20231228_0369_03.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 864,
-      "path": "./photos/Instagram/sigmoid cool and bold.jpg",
-      "compressed_path": "./photos/Instagram/sigmoid cool and bold.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Instagram/sigmoid cool and bold.placeholder.jpg"
     }
   ]
 }
